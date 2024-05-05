@@ -1,0 +1,11 @@
+Model Information:
+* title:	PETRONAS TWIN TOWER
+* source:	https://sketchfab.com/3d-models/petronas-twin-tower-97423ef101ac40d38604e94f72863d00
+* author:	Nurfaamk Cyform (https://sketchfab.com/nurhudaiffah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PETRONAS TWIN TOWER" (https://sketchfab.com/3d-models/petronas-twin-tower-97423ef101ac40d38604e94f72863d00) by Nurfaamk Cyform (https://sketchfab.com/nurhudaiffah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

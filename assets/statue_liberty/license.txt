@@ -1,0 +1,11 @@
+Model Information:
+* title:	Statue of Liberty
+* source:	https://sketchfab.com/3d-models/statue-of-liberty-de104ba657a14df099bde10cd9bbf4f2
+* author:	Crafteri (https://sketchfab.com/Crafteri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Statue of Liberty" (https://sketchfab.com/3d-models/statue-of-liberty-de104ba657a14df099bde10cd9bbf4f2) by Crafteri (https://sketchfab.com/Crafteri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

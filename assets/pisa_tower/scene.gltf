@@ -1,0 +1,464 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        17.541790008544922,
+        17.541780471801758,
+        131.0807647705078
+      ],
+      "min": [
+        -17.549049377441406,
+        -17.541790008544922,
+        19.349660873413086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        0.9999983906745911,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999996423721313,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 253614,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        18.017629623413086,
+        18.017629623413086,
+        131.0807647705078
+      ],
+      "min": [
+        -18.017629623413086,
+        -18.017629623413086,
+        18.829029083251953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1014456,
+      "componentType": 5125,
+      "count": 214686,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 4538,
+      "max": [
+        17.27008056640625,
+        17.207000732421875,
+        54.575740814208984
+      ],
+      "min": [
+        -17.270090103149414,
+        -17.206989288330078,
+        41.98453903198242
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3199992,
+      "componentType": 5126,
+      "count": 4538,
+      "max": [
+        0.9998477697372437,
+        0.9998477697372437,
+        0.9229310154914856
+      ],
+      "min": [
+        -0.9998477101325989,
+        -0.9998477697372437,
+        -0.9229032397270203
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1873200,
+      "componentType": 5125,
+      "count": 21744,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3254448,
+      "componentType": 5126,
+      "count": 900,
+      "max": [
+        20.08057975769043,
+        20.015949249267578,
+        19.499109268188477
+      ],
+      "min": [
+        -19.657270431518555,
+        -19.71954917907715,
+        10.811300277709961
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3265248,
+      "componentType": 5126,
+      "count": 900,
+      "max": [
+        0.9994266629219055,
+        0.9999969005584717,
+        0.9966703653335571
+      ],
+      "min": [
+        -0.9999949932098389,
+        -0.9999710917472839,
+        -0.9966703653335571
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1960176,
+      "componentType": 5125,
+      "count": 1728,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3276048,
+      "componentType": 5126,
+      "count": 13264,
+      "max": [
+        10.043370246887207,
+        2.3894200325012207,
+        1.9927799701690674
+      ],
+      "min": [
+        -9.996740341186523,
+        -1.1047600507736206,
+        -1.9927799701690674
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3435216,
+      "componentType": 5126,
+      "count": 13264,
+      "max": [
+        0.9996546506881714,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999983906745911,
+        -0.9999998807907104,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1967088,
+      "componentType": 5125,
+      "count": 66948,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Meshick (https://sketchfab.com/meshick)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pisa-tower-da40d1bffc03489792c511d41fb23cf9",
+      "title": "Pisa Tower"
+    },
+    "generator": "Sketchfab-15.25.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2234880,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3594384,
+      "byteOffset": 2234880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5829264,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "TopFloor.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TopFloor.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TopFloor.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TopFloor.000_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Sketchfablogo_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        6,
+        8
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "matrix": [
+        -0.6473300000000001,
+        -0.7603700000000001,
+        0.05296000000000001,
+        0.0,
+        0.7578400000000002,
+        -0.6494900000000001,
+        -0.06200000000000001,
+        0.0,
+        0.08154000000000002,
+        0.0,
+        0.9966700000000001,
+        0.0,
+        -0.009530000000000004,
+        -0.0,
+        -15.09841,
+        1.0
+      ],
+      "name": "TopFloor.001"
+    },
+    {
+      "mesh": 0,
+      "name": "TopFloor.001_0"
+    },
+    {
+      "mesh": 1,
+      "name": "TopFloor.001_0"
+    },
+    {
+      "mesh": 2,
+      "name": "TopFloor.001_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.81642,
+        -0.57358,
+        -0.06679000000000003,
+        0.0,
+        0.5716700000000001,
+        0.81915,
+        -0.04677000000000001,
+        0.0,
+        0.08154000000000002,
+        0.0,
+        0.9966700000000001,
+        0.0,
+        0.0,
+        0.0,
+        -14.981869999999999,
+        1.0
+      ],
+      "name": "TopFloor.000"
+    },
+    {
+      "mesh": 3,
+      "name": "TopFloor.000_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.99902,
+        -0.044370000000000014,
+        0.0,
+        0.0,
+        0.044370000000000014,
+        0.99902,
+        0.0,
+        0.0,
+        -0.0,
+        -0.0,
+        1.0,
+        0.0,
+        0.6205,
+        -19.25518,
+        -0.3432800000000001,
+        1.0
+      ],
+      "name": "Sketchfablogo"
+    },
+    {
+      "mesh": 4,
+      "name": "Sketchfablogo_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

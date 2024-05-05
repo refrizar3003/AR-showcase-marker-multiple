@@ -1,0 +1,11 @@
+Model Information:
+* title:	Empire State Buliding
+* source:	https://sketchfab.com/3d-models/empire-state-buliding-4b9453296e374346939ccd9b53d01a62
+* author:	caduteste (https://sketchfab.com/caduteste)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Empire State Buliding" (https://sketchfab.com/3d-models/empire-state-buliding-4b9453296e374346939ccd9b53d01a62) by caduteste (https://sketchfab.com/caduteste) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

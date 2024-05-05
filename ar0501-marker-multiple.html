@@ -1,0 +1,116 @@
+<!doctype HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <!-- Correcting zooming issue -->
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <!-- Library untuk VR membangun 3D -->
+    <script src="./js/aframe/aframe.min.js"></script>
+    <!-- Library untuk AR yang melakukan pengenalan marker dan menyematkan kamera-->
+    <script src="./js/arjs/aframe-ar.js"></script>
+    <title>WebAR: Multiple Marker</title>
+    <!-- include text geometry -->
+    <script src="https://unpkg.com/aframe-text-geometry-component@0.5.1/dist/aframe-text-geometry-component.min.js"></script>
+</head>
+
+<body style="margin : 0px; overflow: hidden;">
+    <a-scene embedded vr-mode-ui="enabled: false" arjs="detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;">
+
+        <!-- create assets -->
+        <a-assets timeout="900000">
+            <a-asset-item id="eiffeltower" src="./assets/eiffel_tower/scene.gltf"></a-asset-item>
+            <a-asset-item id="bigben" src="./assets/big_ben/scene.gltf"></a-asset-item>
+            <a-asset-item id="pisatower" src="./assets/pisa_tower/scene.gltf"></a-asset-item>
+            <a-asset-item id="burjkhalifa" src="./assets/burj_khalifa/scene.gltf"></a-asset-item>
+            <a-asset-item id="pyramid" src="./assets/pyramid/scene.gltf"></a-asset-item>
+            <a-asset-item id="empirestate" src="./assets/empire_state/scene.gltf"></a-asset-item>
+            <a-asset-item id="arcdetromphe" src="./assets/arc_de_tromphe/scene.gltf"></a-asset-item>
+            <a-asset-item id="miladtower" src="./assets/milad_tower/scene.gltf"></a-asset-item>
+            <a-asset-item id="onewtc" src="./assets/one_wtc/scene.gltf"></a-asset-item>
+            <a-asset-item id="liberty" src="./assets/statue_liberty/scene.gltf"></a-asset-item>
+            <a-asset-item id="tokyotower" src="./assets/tokyo_tower/scene.gltf"></a-asset-item>
+        </a-assets>
+
+        handle hiro marker
+        <a-marker preset="hiro">
+            <a-entity gltf-model="#tokyotower" rotation="0 0 0" 
+            position="0 0 0" scale="0.005 0.005 0.005" animation-mixer></a-entity>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="0">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="green">
+                <a-gltf-model src="#eiffeltower" rotation="90 0 0" position="0 -0.2 0.2" scale="0.15 0.15 0.15"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="1">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="blue">
+                <a-gltf-model src="#bigben" rotation="90 0 0" position="0 -0.2 0.2" scale="0.15 0.15 0.15"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="2">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="orange">
+                <a-gltf-model src="#burjkhalifa" rotation="90 0 0" position="0 -0.2 0.2" scale="0.5 0.5 0.5"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="3">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="white">
+                <a-gltf-model src="#empirestate" rotation="90 0 0" position="0 -0.2 0.2" scale="0.00010 0.00010 0.00010"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="4">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="yellow">
+                <a-gltf-model src="#miladtower" rotation="90 0 0" position="0 -0.2 0.2" scale="0.15 0.15 0.15"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="5">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="red">
+                <a-gltf-model src="#pisatower" rotation="90 0 0" position="0 -0.2 0.2" scale="0.018 0.018 0.018"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="6">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="blue">
+                <a-gltf-model src="#arcdetromphe" rotation="90 0 0" position="0.2 -0.2 0.2" scale="0.02 0.02 0.02"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="7">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="cyan">
+                <a-gltf-model src="#onewtc" rotation="90 0 0" position="0.2 -0.2 0.2" scale="0.3 0.3 0.3"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="8">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="purple">
+                <a-gltf-model src="#pyramid" rotation="90 0 0" position="0 -0.2 0.2" scale="0.07 0.07 0.07"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- handle matrix marker -->
+        <a-marker type="barcode" value="9">
+            <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="green">
+                <a-gltf-model src="#liberty" rotation="90 0 0" position="0 -0.2 0.2" scale="0.02 0.02 0.02"></a-gltf-model>
+            </a-plane>
+        </a-marker>
+
+        <!-- add a simple camera -->
+        <a-entity camera></a-entity>
+    </a-scene>
+</body>
+
+</html>

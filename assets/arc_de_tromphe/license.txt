@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arc De Tromphe
+* source:	https://sketchfab.com/3d-models/arc-de-tromphe-aef5fdbecfed432d990fc82c9c2a00e4
+* author:	darsandaddu2009 (https://sketchfab.com/darsandaddu2009)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arc De Tromphe" (https://sketchfab.com/3d-models/arc-de-tromphe-aef5fdbecfed432d990fc82c9c2a00e4) by darsandaddu2009 (https://sketchfab.com/darsandaddu2009) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
